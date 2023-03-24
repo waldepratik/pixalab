@@ -1,0 +1,389 @@
+@media only screen and (min-width:320px) and (max-width:424px){
+    .hero-img {
+        display: none;
+    } 
+    .hero-content h1 {
+        width: 100%;
+        margin-top: 76%;
+        font-size: 40px;
+        line-height: 47px;
+    }
+    .hero-content p {
+        padding-right: 0;
+    }
+    .section-title h2 {
+        font-size: 29px;
+        line-height: 41px;
+    }   
+    .list-style-one li {
+        font-size: 14px;
+    } 
+    .portfolio-filter-button .filter-button li {
+        padding: 8px 20px;
+        margin: 5px;
+    }
+    .cta-wrapper {
+        padding: 80px 20px;
+    }
+    .section-title .head-fill-text {
+        font-size: 30px;
+        line-height: 44px;
+
+    }
+    .fill-text {
+        font-size: 32px;
+    }
+    .cta-area .cta-img{
+        display: none;
+    }
+    .testimonial-area .shape-img-1 {
+        display: none;
+    }
+    .section-title .testi-text {
+        font-size: 31px;
+        line-height: 45px;
+    }
+    .section-title .testi-para {
+        font-size: 20px;
+    }
+    .testimonial-area .img-holder-1 img {
+        width: 100%;
+    }
+    .section-title p {
+        font-size: 23px;
+    }
+    .section-title .head-fill-text {
+        font-size: 28px;
+    }
+    .testimonial-content h3 {
+        font-size: 28px;
+        line-height: 44px;
+    }
+    .contact-area .text-wrapper h2 {
+        font-size: 60px;
+        line-height: 65px;
+    }
+    .fill-text-1 {
+        font-size: 70px
+    }
+    .img-holder .shape {
+        display: none;
+    }
+    .footer-logo img{
+        width: 100%;
+    }
+    .footer-text-color h3 {
+        font-size: 32px;
+        padding-top: 20px;
+        padding-left: 0px;
+        border-left: none;
+        border-top: 2px solid rgba(89,86,233,.2);
+    }
+    .newsletter-content form .form-group button {
+        left: 66%;
+    }
+    .copyright-text {
+        text-align: center;
+    }
+    .float-right {
+        text-align: center;
+        padding: 0px 0px;
+        display: inline-block;
+    }
+    .nav > li {
+        display: inline-block;
+    }
+}
+
+/* ///////////////////////////////////////////////////////////////////////////////////////////////// */
+
+
+
+@media only screen and (min-width:425px) and (max-width:767px){
+    .hero-img {
+        display: none;
+    }
+    .hero-img-3{
+        top: 19%;
+        left: 35%;
+    }
+    .hero-content h1 {
+        width: 391px;
+        margin-top: 56%;
+        font-size: 44px;
+        line-height: 58px;
+    }
+    .hero-content p {
+        padding-right: 7%;
+        font-size: 18px;
+    }
+    .hero-img-5{
+        display: none;
+    }
+    .section-title h2 {
+        font-size: 32px;
+        line-height: 43px;
+    }    
+    .portfolio-filter-button .filter-button li{
+        padding: 8px 15px;
+
+    }
+    .db-inside {
+        padding: 0px 0px;
+        width: 200px;
+    }
+    .cta-wrapper {
+        padding: 80px 0px 80px 50px;
+    }
+    .section-title .head-fill-text {
+        font-size: 29px;
+        line-height: 40px;
+        width: 332px;
+    }
+    .fill-text {
+        font-size: 33px;
+    }
+    .cta-area .cta-img{
+        display: none;
+    }
+    .main-btn {
+        padding: 20px 19px;
+    }
+    .pt-240 {
+        padding: 220px 0px 90px 0px;
+    }
+    .testimonial-area .shape-img-1{
+        display: none;
+    }
+    .section-title .testi-text {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .section-title .testi-para {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .testimonial-area .img-holder-1 img {
+        width: 100%;
+    }
+    .testimonial-content h3 {
+        font-size: 31px;
+        line-height: 53px;
+    }
+    .section-title h2 {
+        font-size: 28px;
+    }
+    .section-title p {
+        font-size: 23px;
+    }
+    .contact-area .text-wrapper h2 {
+        font-size: 56px;
+        line-height: 67px;
+    }
+    .fill-text-1 {
+        font-size: 59px;
+    }
+    .img-holder .shape{
+        display: none;
+    }
+    .footer-text-color h3{
+        border-left: none;
+        border-top: 2px solid rgba(89,86,233,.2);
+    }
+    .footer-text-color h3 {
+        padding-left: 10px;
+        padding-top: 20px;
+    }
+    .newsletter-content h3 {
+        font-size: 32px;
+    }
+    .newsletter-content form .form-group button {
+        bottom: 57px;
+    }
+    .main-btn {
+        padding: 12px 21px;
+    }
+    .copyright-text {
+        padding: 30px 10px;
+        text-align: center;
+    }
+    .nav > li {
+        display: inline-block;
+    }
+    .float-right {
+        float: left;
+        padding: 0px 33px 18px;
+    }
+}
+
+
+/* ////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+
+@media only screen and (min-width:768px) and (max-width:991px){
+    .nav-head {
+        padding: 0px 0%;
+    }
+    .navbar-brand {
+        padding: 15px 11px;
+    }
+    .nav > li > a {
+        padding: 10px 10px;
+    }
+    .nav-menu li a {
+        font-size: 15px;
+    }
+    .navbar-right li a img{
+        display: none;
+    }
+    .hero-content h1 {
+        margin-top: 19%;
+        font-size: 75px;
+        line-height: 87px;
+    }
+    .hero-img-3 {
+        left: 90px;
+    }
+    .hero-img{
+        display: none;
+    }
+    .hero-content p {
+        padding-right: 10%;
+    }
+    .hero-img-5 {
+        top: 92%;
+    }
+    .center{
+        transform: translate(50%, 0px);
+    }  
+    .section-title h2 {
+        line-height: 65px;
+    }
+    .section-title p {
+        line-height: 43px;
+    }
+    .portfolio-filter-button .filter-button li {
+        padding: 5px 17px;
+        font-size: 18px;
+    }  
+    .cta-area .cta-img{
+        display: none;
+    }
+    .cta-wrapper {
+        padding: 60px 27px;
+    }
+    .section-title .head-fill-text {
+        font-size: 65px;
+        line-height: 76px;
+    }
+    .testimonial-area .shape-img-1 img {
+        display: none;
+    }
+    .testimonial-area .shape-img-1:after{
+        display: none;
+    }
+    .testimonial-content h3 {
+        font-size: 30px;
+    }    
+    .section-title p {
+        font-size: 22px;
+    }    
+    .section-title h2 {
+        font-size: 53px;
+    }
+    .contact-area .text-wrapper h2 {
+        font-size: 59px;
+    }
+    .fill-text-1 {
+        font-size: 62px;
+    }
+    .text-wrapper p {
+        font-size: 19px;
+    }
+    .img-holder .shape img{
+        display: none;
+    }
+    .footer-logo img{
+        width: 95%;
+        margin: 27px 0px;
+
+    }
+    .footer-text-color h3 {
+        font-size: 30px;
+        padding-left: 20px;
+    }
+    .copyright-text {
+        text-align: center;
+    }
+    .footer-nav{
+        transform: translate(65.5%, -45px);
+        float: left;
+    }
+   
+}
+
+/* //////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+
+@media only screen and (min-width:992px) and (max-width:1200px){
+
+    .nav-head {
+        padding: 0px 1px;
+    }
+    .hero-img{
+        display: none;
+    }
+    .hero-content h1 {
+        width: 96%;
+        margin-top: 67px;
+        font-size: 90px;
+        line-height: 90px;
+        font-weight: 700;
+    }
+    .hero-content p {
+        padding-right: 10px;
+    }
+    .section-title h2 {
+        font-weight: 600;
+        font-size: 50px;
+    } 
+    .cta-area .cta-img img{
+        display: none;
+    }   
+    .section-title .testi-text {
+        font-size: 44px;
+    }
+    .section-title .testi-para {
+        font-size: 22px;
+    }
+    .testimonial-content{
+        margin-left: 55px;
+
+    }
+    .testimonial-content h3 {
+        font-size: 28px;
+    }    
+    .contact-area .text-wrapper h2 {
+        font-size: 50px;
+    }
+    .fill-text-1{
+        font-size: 50px;
+
+    }
+    .img-holder .shape img {
+        width: 164%;
+    }
+    .entry-content h3 {
+        font-size: 25px;
+    }
+    .footer-text-color h3 {
+        font-size: 37px;
+        padding-left: 67px;
+    }
+    .newsletter-content form .form-group button {
+        left: 63%;
+    }
+    .copyright-text {
+        padding: 26px 0px;
+    }
+}
